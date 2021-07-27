@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 - 👋 Hiya, I'm Samarth Gaonkar pursuing bachelor's in IT engineering.
 - 🖥️ Interested in Android Development.
+- Always willing to learn new skills!
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
