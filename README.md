@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hieee!!!</h1>
+<h1 align="center">Namaste!!!</h1>
 
-- 👋 Hiya, I'm Samarth Gaonkar pursuing bachelor's in IT engineering.
+- 👋 Hello, I'm Samarth Gaonkar pursuing bachelor's in IT engineering.
 - 🖥️ Interested in Android Development.
 - Always willing to learn new skills!
 
